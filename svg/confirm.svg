@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="612 545 56 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #447f9d;
+        font-size: 15px;
+        font-family: Reglo-Bold, Reglo;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="CONFIRM" class="cls-1" transform="translate(640 557)"><tspan x="-27.202" y="0">CONFIRM</tspan></text>
+</svg>
