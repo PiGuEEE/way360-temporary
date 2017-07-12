@@ -2,7 +2,6 @@
 <html>
 <head>
 	<?php include('includes/head.php'); ?>
-	<title>Refuge | Website Questionnaire</title>
 </head>
 <body>
 	<header class="header">
